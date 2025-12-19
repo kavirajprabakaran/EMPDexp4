@@ -34,8 +34,7 @@
 
 ### Output:
 
-
-### Name:KAVIRAJ.P
+###Name:KAVIRAJ.P
 ### Register Number:25017431
 
 ## RESULT:
